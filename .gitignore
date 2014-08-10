@@ -1,0 +1,4 @@
+*.pyc
+.git_*
+cli_read.py
+cli_write.py

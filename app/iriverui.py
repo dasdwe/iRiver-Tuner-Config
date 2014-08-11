@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'iriverui.ui'
 #
-# Created: Sun Aug 10 19:47:17 2014
+# Created: Mon Aug 11 12:47:38 2014
 #      by: PyQt4 UI code generator 4.10.4
 #
 # WARNING! All changes made in this file will be lost!
@@ -314,9 +314,9 @@ class Ui_Tuner(object):
         self.stationsList.setSortingEnabled(__sortingEnabled)
         self.groupBox.setTitle(_translate("Tuner", "Region", None))
         self.radioUSA.setText(_translate("Tuner", "USA/Korea (87-108 MHz)", None))
-        self.radioJapan.setText(_translate("Tuner", "Japan (76-90 MHz)", None))
-        self.radioEurope.setText(_translate("Tuner", "Europe (87-108 MHz)", None))
-        self.loadButton.setText(_translate("Tuner", "Wczytaj plik", None))
+        self.radioJapan.setText(_translate("Tuner", "Japonia (76-90 MHz)", None))
+        self.radioEurope.setText(_translate("Tuner", "Europa (87-108 MHz)", None))
+        self.loadButton.setText(_translate("Tuner", "&Wczytaj plik", None))
         self.saveButton.setText(_translate("Tuner", "Zapi&sz plik", None))
         self.exitButton.setText(_translate("Tuner", "&Zamknij", None))
         self.author.setText(_translate("Tuner", "Autor: K.S. © 2014", None))

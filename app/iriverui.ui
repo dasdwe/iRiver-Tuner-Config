@@ -525,7 +525,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Japan (76-90 MHz)</string>
+     <string>Japonia (76-90 MHz)</string>
     </property>
    </widget>
    <widget class="QRadioButton" name="radioEurope">
@@ -538,7 +538,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Europe (87-108 MHz)</string>
+     <string>Europa (87-108 MHz)</string>
     </property>
    </widget>
   </widget>
@@ -560,7 +560,7 @@
          <string notr="true">border:1px solid #ddd;</string>
         </property>
         <property name="text">
-         <string>Wczytaj plik</string>
+         <string>&amp;Wczytaj plik</string>
         </property>
        </widget>
       </item>
